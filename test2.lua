@@ -1,1 +1,0 @@
-print('my fucking cock')
